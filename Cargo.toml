@@ -1,0 +1,9 @@
+[package]
+name = "project_euler"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[workspace]
+members = ["euler_1", "euler_2", "euler_3", "euler_4", "euler_5", "euler_6", "euler_7"]
