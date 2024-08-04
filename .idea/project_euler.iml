@@ -10,6 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/euler_6/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/euler_7/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_9/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

@@ -7,6 +7,10 @@ name = "euler_1"
 version = "0.1.0"
 
 [[package]]
+name = "euler_10"
+version = "0.1.0"
+
+[[package]]
 name = "euler_2"
 version = "0.1.0"
 
@@ -28,6 +32,14 @@ version = "0.1.0"
 
 [[package]]
 name = "euler_7"
+version = "0.1.0"
+
+[[package]]
+name = "euler_8"
+version = "0.1.0"
+
+[[package]]
+name = "euler_9"
 version = "0.1.0"
 
 [[package]]
