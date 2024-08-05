@@ -11,6 +11,26 @@ name = "euler_10"
 version = "0.1.0"
 
 [[package]]
+name = "euler_11"
+version = "0.1.0"
+
+[[package]]
+name = "euler_12"
+version = "0.1.0"
+
+[[package]]
+name = "euler_13"
+version = "0.1.0"
+
+[[package]]
+name = "euler_14"
+version = "0.1.0"
+
+[[package]]
+name = "euler_15"
+version = "0.1.0"
+
+[[package]]
 name = "euler_2"
 version = "0.1.0"
 
