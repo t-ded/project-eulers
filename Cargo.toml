@@ -6,4 +6,4 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = ["euler_1", "euler_10", "euler_11", "euler_12", "euler_13", "euler_14", "euler_15", "euler_2", "euler_3", "euler_4", "euler_5", "euler_6", "euler_7", "euler_8", "euler_9"]
+members = ["euler_1", "euler_10", "euler_11", "euler_12", "euler_13", "euler_14", "euler_15", "euler_16", "euler_17", "euler_18", "euler_19", "euler_2", "euler_20", "euler_21", "euler_22", "euler_23", "euler_24", "euler_25", "euler_3", "euler_4", "euler_5", "euler_6", "euler_7", "euler_8", "euler_9"]

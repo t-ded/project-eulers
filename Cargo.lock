@@ -31,7 +31,47 @@ name = "euler_15"
 version = "0.1.0"
 
 [[package]]
+name = "euler_16"
+version = "0.1.0"
+
+[[package]]
+name = "euler_17"
+version = "0.1.0"
+
+[[package]]
+name = "euler_18"
+version = "0.1.0"
+
+[[package]]
+name = "euler_19"
+version = "0.1.0"
+
+[[package]]
 name = "euler_2"
+version = "0.1.0"
+
+[[package]]
+name = "euler_20"
+version = "0.1.0"
+
+[[package]]
+name = "euler_21"
+version = "0.1.0"
+
+[[package]]
+name = "euler_22"
+version = "0.1.0"
+
+[[package]]
+name = "euler_23"
+version = "0.1.0"
+
+[[package]]
+name = "euler_24"
+version = "0.1.0"
+
+[[package]]
+name = "euler_25"
 version = "0.1.0"
 
 [[package]]
