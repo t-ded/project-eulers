@@ -18,6 +18,16 @@
       <sourceFolder url="file://$MODULE_DIR$/euler_13/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/euler_14/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/euler_15/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_16/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_17/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_18/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_19/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_20/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_21/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_22/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_23/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_24/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/euler_25/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
