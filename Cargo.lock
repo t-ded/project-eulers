@@ -63,6 +63,10 @@ version = "0.1.0"
 [[package]]
 name = "euler_20"
 version = "0.1.0"
+dependencies = [
+ "num-bigint",
+ "num-traits",
+]
 
 [[package]]
 name = "euler_21"
